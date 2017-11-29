@@ -1,4 +1,4 @@
-# simple-example-counter-react-redux-saga
+# simple-example-counter-react-redux
 Simple example Redux
 # To install, run
 npm install
